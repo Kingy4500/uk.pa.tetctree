@@ -14,9 +14,10 @@
         "editor"
     ],
    "scenes": {
-		"system_editor": [
+	"system_editor": [
 			"coui://ui/mods/bm/bm.js"
-],
+]
+   },	   
     "searchable": [
         "theeffectthecause",
         "biome",
