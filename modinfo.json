@@ -30,6 +30,6 @@
     "priority": 100,
     "enabled": true,
     "dependencies": [
-        "uk.pa.tetcserver"
+        "uk.pa.tetctree.server"
     ]
 }
