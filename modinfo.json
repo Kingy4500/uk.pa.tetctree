@@ -28,6 +28,7 @@
         "planet"
     ],
     "priority": 100,
+	"companions": ["uk.pa.tetctree.server"],
     "enabled": true,
     "dependencies": [
         "uk.pa.tetctree.server"
