@@ -2,7 +2,7 @@
     "context": "client",
     "identifier": "uk.pa.tetctree",
     "display_name": "multiple Biomes for System Designers",
-    "description": "Fixed thjje issue with the mod breaking Biomes Included: Oasis, Mountain, Rainforest, Ice. Oasis a desert type biome with trees by the water and dead trees on the inner land, Mountain a mountain type biome with a rock only texture and some sand for beaches, Ranforest a biome covered in trees with sand for beaches, Icey a complete ice type biome with no other textures, only ice",
+    "description": "Fixed the issue with the mod breaking, Biomes Included: Oasis, Mountain, Rainforest, Ice. Oasis a desert type biome with trees by the water and dead trees on the inner land, Mountain a mountain type biome with a rock only texture and some sand for beaches, Ranforest a biome covered in trees with sand for beaches, Icey a complete ice type biome with no other textures, only ice",
     "author": "TheEffectTheCause",
     "version": "0.4.8",
     "build": "108271",
